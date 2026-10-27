@@ -1,0 +1,6 @@
+{
+  "name": "ScholarX",
+  "description": "Your scholarship companion - Premium AI-powered scholarship discovery platform with smart recommendations, eligibility checks, and real-time scholarship tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
